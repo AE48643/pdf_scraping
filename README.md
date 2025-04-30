@@ -1,3 +1,5 @@
+# Intiation: Before running the code, first you need to install openpyxl. Inorder to do that, if you are on github: type and enter "pip install openpyxl" on the terminal found at the bottom of the screen. If you are on Visual Studio Code, naviage to terminal on the toolbar at the top, then select new terminal. Once the new terminal popes up at the bottom of the screen type and enter: "pip install openpyxl"
+
 # 1st Please unmerge the excel file in excel. In order to do that select all by pressing Ctrl+A, then navigating to Home - Alignment - Dropdown from Merge and Center then select Unmerge Cells.
 # 2nd When saving the excel file after unmerging please use this name "DA 25". Copy and pasting highly recommended.
 # 3rd Save the excel file inside pdf_file folder.
